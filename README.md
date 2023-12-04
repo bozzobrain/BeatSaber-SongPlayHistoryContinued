@@ -29,4 +29,4 @@ Track all your scores. This is a fork of the currently unmaintained [SongPlayHis
 ## Credits
 
 - [swift-kim](https://github.com/swift-kim) - Creator of this mod.
-- [Shadnix-was-taken] (https://github.com/Shadnix-was-taken) - Extender of original mod.
+- [Shadnix-was-taken](https://github.com/Shadnix-was-taken) - Extender of original mod.
