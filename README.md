@@ -2,7 +2,7 @@
 
 [![release](https://img.shields.io/github/release/Shadnix-was-taken/BeatSaber-SongPlayHistoryContinued.svg)](https://github.com/bozzobrain/BeatSaber-SongPlayHistoryContinued)
 
-Track all your scores. This is a fork of the currently unmaintained [SongPlayHistory](https://github.com/swift-kim/SongPlayHistory) mod. Updated from [SongPlayHistoryContinued] (https://github.com/Shadnix-was-taken/BeatSaber-SongPlayHistoryContinued).
+Track all your scores. This is a fork of the currently unmaintained [SongPlayHistory](https://github.com/swift-kim/SongPlayHistory) mod. Updated from [SongPlayHistoryContinued](https://github.com/Shadnix-was-taken/BeatSaber-SongPlayHistoryContinued).
 
 ## Screenshot
 
